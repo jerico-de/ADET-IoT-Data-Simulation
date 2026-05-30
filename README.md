@@ -8,7 +8,7 @@ This project simulates IoT-generated data for a Smart Logistics Tracking system
 and stores each record as a transaction on a local Ethereum blockchain using Web3.py.
 
 ## Files
-- `week5_milestone1_final.ipynb` — Main Jupyter Notebook
+- `logistics_ledger_Group_ADET.ipynb` — Main Jupyter Notebook
 - `iot_data.csv` — IoT sensor dataset (Homework 1 output)
 
 ## Tools Used
